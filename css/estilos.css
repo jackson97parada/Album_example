@@ -7,10 +7,10 @@ body {
 /*header */
 header {
   background-color: #24292d;
-  color: aliceblue;
+  color: white;
 }
 header a {
-  color: #fff;
+  color: white;
 }
 .header-js {
   display: flex;
