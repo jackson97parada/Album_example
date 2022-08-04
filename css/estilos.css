@@ -219,6 +219,9 @@ header a {
   .container {
     margin: 40px 7px 10px 7px;
   }
+  .article-album-css {
+    padding: 0;
+  }
   .article-album-css h1 {
     font-size: 2rem;
     font-weight: 100;
